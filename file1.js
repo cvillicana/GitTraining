@@ -1,2 +1,2 @@
-var date = new Date()
-console.log("Day:  " + date.getDay())
+var date = "Date"
+console.log(date)
